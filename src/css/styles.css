@@ -1657,7 +1657,6 @@ html {
     width: 70%;
   }
   .PricingPlan {
-    margin-bottom: 200px;
     height: 170vh;
   }
   .PricingPlanWrap {
@@ -1732,6 +1731,9 @@ html {
   }
   .lastPack .btnw {
     width: 220px;
+  }
+  .Download {
+    margin-top: 200px;
   }
   .DownloadWrap {
     width: 100%;
